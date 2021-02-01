@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleDBApplication</string>
+    <string name="enter_comma_seperated_tags">Enter comma separated tags</string>
+    <string name="enter_tags">Please enter tags</string>
+</resources>
